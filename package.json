@@ -16,7 +16,7 @@
     "deploy rinkeby": "npx hardhat run scripts/deploy_rinkeby.js --network rinkeby"
   },
   "dependencies": {
-    "@openzeppelin/contracts": "^3.3.0",
+    "@openzeppelin/contracts": "^3.4.2",
     "@openzeppelin/contracts-upgradeable": "^3.3.0",
     "dotenv": "^10.0.0",
     "hardhat-abi-exporter": "^2.2.1",
